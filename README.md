@@ -30,6 +30,8 @@
 ## DigitalSculp
 <h3 align="left">Employee Management Website</h3>
 Live_Link: https://starlit-jelly-aa5348.netlify.app
+
+<h3>Features :</h3>
 <li>The website has conditional dashboard based on user role to the company.</li>
 <li>Any one can register as an employee and can submit work in work sheet page where the works would be shown as table.</li>
 <li>Hr can verify a an employee and an see the progress made by the employees in their worksheet .</li>
@@ -42,6 +44,15 @@ Live_Link: https://starlit-jelly-aa5348.netlify.app
 
 Live_Link: https://stupendous-belekoy-96d692.netlify.app
 
+<h3>Features :</h3>
+
+<li>On the home page there are different types of eye caching components like promorional banner image gallery and news later.</li>
+<li> In the rooms page user can see all the rooms in our website and choice one by clicking on it. on clicking the website would take the user to a rooms details page.</li>
+<li> On the room details page there are descriptions of the room and user can select date and book the room</li>
+<li>On MY bookings page user can view the rooms he has booked and choose to delete if he wishes</li>
+<li>There are update and review functions in my booking page where user can choose to update his booking or give a review </li>
+
+    
 
 
 
