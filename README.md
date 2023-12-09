@@ -22,6 +22,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diptomahin&theme=onedark-duo)](https://git.io/streak-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diptomahin&show_icons=true&locale=en&layout=compact" alt="diptomahin" /></p>
 
 
