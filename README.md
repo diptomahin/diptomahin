@@ -29,12 +29,18 @@
 
 ## DigitalSculp
 <h3 align="left">Employee Management Website</h3>
-Live Link : https://starlit-jelly-aa5348.netlify.app
+Live_Link: https://starlit-jelly-aa5348.netlify.app
 <li>The website has conditional dashboard based on user role to the company.</li>
 <li>Any one can register as an employee and can submit work in work sheet page where the works would be shown as table.</li>
 <li>Hr can verify a an employee and an see the progress made by the employees in their worksheet .</li>
 <li>Admin can make an employee hr and also choose to fire him . if fired the employee can not login to the page</li>
 <li>the website is responsive in all devices</li>
+
+
+## SuiteVoyage
+<h3 align="left">Hotel room booking Website</h3>
+
+Live_Link: https://stupendous-belekoy-96d692.netlify.app
 
 
 
