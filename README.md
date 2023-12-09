@@ -54,7 +54,7 @@ Live_Link: https://stupendous-belekoy-96d692.netlify.app
 
     
 ## TechFusion
-<h3 align="left">Hotel room booking Website</h3>
+<h3 align="left">E-commerce store for tech products</h3>
 
 Live_Link: https://cool-sundae-a30382.netlify.app
 
