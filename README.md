@@ -53,7 +53,20 @@ Live_Link: https://stupendous-belekoy-96d692.netlify.app
 <li>There are update and review functions in my booking page where user can choose to update his booking or give a review </li>
 
     
+## TechFusion
+<h3 align="left">Hotel room booking Website</h3>
 
+Live_Link: https://cool-sundae-a30382.netlify.app
+
+<h3>Features :</h3>
+
+<li>It is tech website that sells products from different renowned brands.</li>
+<li> when a user clicks on a brand it takes them to a private protected route which shows products of that brand. new Products can be added to the database by filling the form of Add product page.</li>
+<li>  If a user adds a product to cart it chows on my cart page for that user.</li>
+<li>In my cart page a user can delete any product that has been added to the users cart</li>
+<li>user can login to the website by email password authentication and google popups </li>
+
+   
 
 
 
