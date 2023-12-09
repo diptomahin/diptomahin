@@ -26,5 +26,3 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diptomahin&theme=aura_dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diptomahin&" alt="diptomahin" /></p>
-
