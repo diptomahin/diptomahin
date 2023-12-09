@@ -22,9 +22,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diptomahin&theme=onedark-duo)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diptomahin&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diptomahin&theme=aura_dark)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diptomahin&show_icons=true&locale=en&layout=compact" alt="diptomahin" /></p>
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diptomahin&theme=aura_dark)
 
