@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/diptomahin/diptomahin/blob/main/Banner.1.png" alt="diptomahin" />
+<img align="center" src="https://github.com/diptomahin/diptomahin/blob/main/MAHIN%20AHMED.png" alt="diptomahin" />
 <h1 align="center">Hello 👋, I'm Mahin Ahmed Dipta</h1>
 <h3 align="center">A passionate MERN (Mongodb, Express.js, React.js, Node.js) developer from Bangladesh</h3>
 
